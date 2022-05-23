@@ -1,0 +1,30 @@
+.btn-new-quote{
+    border-radius: 0%;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    font-size: 13.3333px;
+}
+.btnborder{
+    border: 2px black solid;
+}
+.quoteofday h1{
+    font-size: 80px;
+    margin-top: 53px;
+    margin-bottom: 53px;
+    font-family: Impact;
+    color: #000000;
+    line-height: normal;
+    font-weight: bold;
+}
+.quoteofday p{
+    font-size: 35px;
+    font-family: 'Times New Roman';
+    margin-top: 35px;
+    margin-bottom: 35px;
+    line-height: normal;
+    color: #000000;
+}
+.btn-new-quote:hover{
+    background-color: green ;
+}
